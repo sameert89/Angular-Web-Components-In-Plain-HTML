@@ -15,6 +15,8 @@ The `index.html` file already registers the js files correctly at the end of the
 body tag.
 
 Serve the test-page folder using any web server such as:
+
+
 1.`live-server vscode extension` (RECOMMENDED:  just install extension and right click the `index.html` inside `test-page` and select `Open With Live  Server`>
 
 2. `http-server`: run `npm install -g http-server` then `cd` into `test-page` folder, and run `npx http-server`.
